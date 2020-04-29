@@ -1,0 +1,6 @@
+Cristian	Coronado	3806.8	0	0	193.2	3806.8
+Anderson	Coronado	7613.6	5	169.167	386.4	7782.77
+Ramzi	Cavani	11896.2	6	317.188	603.75	12213.4
+Cristian	Gomez	4568.16	2	40.6	231.84	4608.76
+Andre	Coronado	7137.75	6	190.312	362.25	7328.06
+Francisco	Aroche	11896.2	2	105.729	603.75	12002
